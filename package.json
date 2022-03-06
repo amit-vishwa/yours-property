@@ -1,0 +1,28 @@
+{
+  "name": "yours-property",
+  "version": "1.0.0",
+  "description": "this is an e-commerce site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "engines": {
+    "node": "12.16.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.6.0",
+    "express": "^4.17.3",
+    "firebase": "^8.10.1",
+    "firebase-admin": "^10.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
