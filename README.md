@@ -12,7 +12,7 @@ Open it(main directory/folder or repository) in code editor (VSCode).
 Now run on terminal to install required packages
 => npm i express firebase dotenv cors
 => npm i nodemon --save-dev
-=> npm i body-parser
+=> npm i body-parser firebase-admin bcrypt
 
 # For ref 
 https://www.youtube.com/watch?v=Ld4OGwpQ2Yk&list=LL&index=2
